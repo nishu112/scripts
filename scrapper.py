@@ -32,10 +32,10 @@ def scrappingIterative(current,unVisited):
 
             if anchor.get('href') not in visited and anchor.get('href') not in unVisited:
                 unVisited.add(anchor.get('href'))
-                #print(anchor.get('href'))
+                print(anchor.get('href'))
                 file.write(anchor.get('href')+'\n')
                 count+=1
-                print(count,end=' ')
+                #print(count,end=' ')
         unVisited.remove(val)
         visited.add(val)
 

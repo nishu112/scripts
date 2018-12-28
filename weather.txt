@@ -1,0 +1,45 @@
+Today
+Today: Sunny, with a high near 57. Breezy, with a north wind 8 to 13 mph increasing to 20 to 25 mph in the morning. Winds could gust as high as 33 mph. 
+Sunny andBreezy
+High: 57 °F
+
+Tonight
+Tonight: Clear, with a low around 47. Breezy, with a north wind 20 to 22 mph, with gusts as high as 29 mph. 
+Clear andBreezy
+Low: 47 °F
+
+Friday
+Friday: Sunny, with a high near 58. North wind 16 to 18 mph, with gusts as high as 23 mph. 
+Sunny
+High: 58 °F
+
+FridayNight
+Friday Night: Mostly clear, with a low around 45. North northeast wind 6 to 14 mph, with gusts as high as 18 mph. 
+Mostly Clear
+Low: 45 °F
+
+Saturday
+Saturday: Sunny, with a high near 56. North northeast wind around 11 mph. 
+Sunny
+High: 56 °F
+
+SaturdayNight
+Saturday Night: Mostly clear, with a low around 47.
+Mostly Clear
+Low: 47 °F
+
+Sunday
+Sunday: Mostly sunny, with a high near 57.
+Mostly Sunny
+High: 57 °F
+
+SundayNight
+Sunday Night: Mostly clear, with a low around 47.
+Mostly Clear
+Low: 47 °F
+
+Monday
+Monday: Sunny, with a high near 57.
+Sunny
+High: 57 °F
+

@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 from collections import deque
 
-file=open("google.txt","w")
+file=open("geeksLinks.txt","w")
 
 def scrappingRecur(current,visited):
     if len(current)==0:
@@ -39,7 +39,7 @@ def scrappingIterative(current,unVisited):
         unVisited.remove(val)
         visited.add(val)
 
-initialLink="https://www.google.com/"
+initialLink="https://www.geeksforgeeks.com/"
 visited=set()
 scrappingIterative(initialLink,visited)
 file.close()
